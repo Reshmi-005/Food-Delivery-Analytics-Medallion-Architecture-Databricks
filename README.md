@@ -122,73 +122,73 @@ The Gold Layer contains business-ready analytical datasets.
 
 # 📸 Complete Project Walkthrough
 
-## Daily Sales Summary
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234631.png">
 
 ---
 
-## Restaurant Performance
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234724.png">
 
 ---
 
-## Customer Order Summary
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234746.png">
 
 ---
 
-## City Revenue Summary
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234849.png">
 
 ---
 
-## Cuisine Performance
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234913.png">
 
 ---
 
-## Payment Method Summary
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20234956.png">
 
 ---
 
-## Fact Orders
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235037.png">
 
 ---
 
-## Bronze Layer Processing
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235115.png">
 
 ---
 
-## Bronze Output
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235136.png">
 
 ---
 
-## Gold Layer Tables
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235159.png">
 
 ---
 
-## Silver Layer Tables
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235219.png">
 
 ---
 
-## Business Summary Tables
+
 
 <img src="Screenshots/Screenshot%202026-07-22%20235329.png">
 
